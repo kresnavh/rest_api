@@ -10,3 +10,5 @@
 # ketika request dengan Get tanpa id, maka respon keluarannya seluruh produk. Sedangkan jika request dengan id, maka respon keluarannya produk berdasarkan id. apabila request     id tidak diketahui, maka respon keluarannya sebuah pesan "id tidak ditemukan".
 # ketika request dengan post atau untuk menambahkan data, dianggap data yang diinput sudah benar karena program ini masih belum menggunakan validasi. begitu juga untuk           request dengan put atau untuk mengedit data.
 # ketika request dengan delete maka id harus tersedia untuk menghapus produk yang dimaksud, apabila id tidak tersedia maka responnya sebuah pesan 'id tidak ada'.
+
+# database yg digukanan berada pada folder database
