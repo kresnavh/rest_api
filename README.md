@@ -12,3 +12,4 @@
 # ketika request dengan delete maka id harus tersedia untuk menghapus produk yang dimaksud, apabila id tidak tersedia maka responnya sebuah pesan 'id tidak ada'.
 
 # database yg digukanan berada pada folder database
+# controllers/api/Produk.php controller untuk rest servernya
